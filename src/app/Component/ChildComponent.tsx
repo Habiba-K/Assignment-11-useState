@@ -4,7 +4,7 @@ const ChildComponent = (props : any) => {
 console.log(props)
   return (
     <div>
-      <h1 className='text-4xl pt-5'>Assignment 10</h1> <br />
+      <h1 className='text-4xl pt-5'>Assignment 11</h1> <br />
       <p> 2.  Make 3 variables in Parent Component <br />
         2.1 Pass props to Child Component <br />
         2.2 Render props Child Component</p><br />
